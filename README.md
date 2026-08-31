@@ -1,6 +1,6 @@
-# CodeForge AI 🚀
+# SPIRITX CoreAI 🚀
 
-> An AI-powered developer intelligence platform that analyzes software repositories and provides engineering insights.
+> Software Repository Intelligence & Engineering Analytics Platform
 
 ## 🎯 Vision
 
